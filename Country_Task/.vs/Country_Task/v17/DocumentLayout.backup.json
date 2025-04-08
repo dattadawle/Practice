@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Datta_Git\\Machine_Tasks\\Practice\\Country_Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Datta_Git\\Machine_Tasks\\Practice\\Country_Task\\Data\\Migrations\\20250408113238_dataAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20250408113238_dataAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AD226A-DA2E-415C-A9D7-6B9A3BD7143F}|Data\\Data.csproj|d:\\datta_git\\machine_tasks\\practice\\country_task\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AD226A-DA2E-415C-A9D7-6B9A3BD7143F}|Data\\Data.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AD226A-DA2E-415C-A9D7-6B9A3BD7143F}|Data\\Data.csproj|d:\\datta_git\\machine_tasks\\practice\\country_task\\data\\migrations\\20250408111846_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AD226A-DA2E-415C-A9D7-6B9A3BD7143F}|Data\\Data.csproj|solutionrelative:data\\migrations\\20250408111846_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AD226A-DA2E-415C-A9D7-6B9A3BD7143F}|Data\\Data.csproj|d:\\datta_git\\machine_tasks\\practice\\country_task\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AD226A-DA2E-415C-A9D7-6B9A3BD7143F}|Data\\Data.csproj|solutionrelative:data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Datta_Git\\Machine_Tasks\\Practice\\Country_Task\\Data\\Migrations\\20250408111500_foreignKeyChanged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20250408111500_foreignKeyChanged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AD226A-DA2E-415C-A9D7-6B9A3BD7143F}|Data\\Data.csproj|d:\\datta_git\\machine_tasks\\practice\\country_task\\data\\models\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AD226A-DA2E-415C-A9D7-6B9A3BD7143F}|Data\\Data.csproj|solutionrelative:data\\models\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AD226A-DA2E-415C-A9D7-6B9A3BD7143F}|Data\\Data.csproj|d:\\datta_git\\machine_tasks\\practice\\country_task\\data\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AD226A-DA2E-415C-A9D7-6B9A3BD7143F}|Data\\Data.csproj|solutionrelative:data\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AD226A-DA2E-415C-A9D7-6B9A3BD7143F}|Data\\Data.csproj|d:\\datta_git\\machine_tasks\\practice\\country_task\\data\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AD226A-DA2E-415C-A9D7-6B9A3BD7143F}|Data\\Data.csproj|solutionrelative:data\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Datta_Git\\Machine_Tasks\\Practice\\Country_Task\\Data\\Migrations\\20250408110434_InitialDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20250408110434_InitialDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C28EBA-BBB1-42CD-9BEF-DF05297637FB}|Country_Task\\Country_Task.csproj|d:\\datta_git\\machine_tasks\\practice\\country_task\\country_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C28EBA-BBB1-42CD-9BEF-DF05297637FB}|Country_Task\\Country_Task.csproj|solutionrelative:country_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C28EBA-BBB1-42CD-9BEF-DF05297637FB}|Country_Task\\Country_Task.csproj|d:\\datta_git\\machine_tasks\\practice\\country_task\\country_task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69C28EBA-BBB1-42CD-9BEF-DF05297637FB}|Country_Task\\Country_Task.csproj|solutionrelative:country_task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AD226A-DA2E-415C-A9D7-6B9A3BD7143F}|Data\\Data.csproj|d:\\datta_git\\machine_tasks\\practice\\country_task\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AD226A-DA2E-415C-A9D7-6B9A3BD7143F}|Data\\Data.csproj|solutionrelative:data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250408113238_dataAdded.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Machine_Tasks\\Practice\\Country_Task\\Data\\Migrations\\20250408113238_dataAdded.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250408113238_dataAdded.cs",
+              "ToolTip": "D:\\Datta_Git\\Machine_Tasks\\Practice\\Country_Task\\Data\\Migrations\\20250408113238_dataAdded.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250408113238_dataAdded.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:32:38.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Machine_Tasks\\Practice\\Country_Task\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Datta_Git\\Machine_Tasks\\Practice\\Country_Task\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:25:21.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250408111846_InitialDb.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Machine_Tasks\\Practice\\Country_Task\\Data\\Migrations\\20250408111846_InitialDb.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250408111846_InitialDb.cs",
+              "ToolTip": "D:\\Datta_Git\\Machine_Tasks\\Practice\\Country_Task\\Data\\Migrations\\20250408111846_InitialDb.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250408111846_InitialDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:18:46.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250408111500_foreignKeyChanged.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Machine_Tasks\\Practice\\Country_Task\\Data\\Migrations\\20250408111500_foreignKeyChanged.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250408111500_foreignKeyChanged.cs",
+              "ToolTip": "D:\\Datta_Git\\Machine_Tasks\\Practice\\Country_Task\\Data\\Migrations\\20250408111500_foreignKeyChanged.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250408111500_foreignKeyChanged.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:15:01.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Machine_Tasks\\Practice\\Country_Task\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Datta_Git\\Machine_Tasks\\Practice\\Country_Task\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:54:20.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250408110434_InitialDb.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Machine_Tasks\\Practice\\Country_Task\\Data\\Migrations\\20250408110434_InitialDb.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250408110434_InitialDb.cs",
+              "ToolTip": "D:\\Datta_Git\\Machine_Tasks\\Practice\\Country_Task\\Data\\Migrations\\20250408110434_InitialDb.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250408110434_InitialDb.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAEAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:04:34.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Machine_Tasks\\Practice\\Country_Task\\Country_Task\\Program.cs",
+              "RelativeDocumentMoniker": "Country_Task\\Program.cs",
+              "ToolTip": "D:\\Datta_Git\\Machine_Tasks\\Practice\\Country_Task\\Country_Task\\Program.cs",
+              "RelativeToolTip": "Country_Task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:58:52.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Datta_Git\\Machine_Tasks\\Practice\\Country_Task\\Country_Task\\appsettings.json",
+              "RelativeDocumentMoniker": "Country_Task\\appsettings.json",
+              "ToolTip": "D:\\Datta_Git\\Machine_Tasks\\Practice\\Country_Task\\Country_Task\\appsettings.json",
+              "RelativeToolTip": "Country_Task\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T10:59:32.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "State.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Machine_Tasks\\Practice\\Country_Task\\Data\\Models\\State.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\State.cs",
+              "ToolTip": "D:\\Datta_Git\\Machine_Tasks\\Practice\\Country_Task\\Data\\Models\\State.cs",
+              "RelativeToolTip": "Data\\Models\\State.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:47:07.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Country.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Machine_Tasks\\Practice\\Country_Task\\Data\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Country.cs",
+              "ToolTip": "D:\\Datta_Git\\Machine_Tasks\\Practice\\Country_Task\\Data\\Models\\Country.cs",
+              "RelativeToolTip": "Data\\Models\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:46:57.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "City.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Machine_Tasks\\Practice\\Country_Task\\Data\\Models\\City.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\City.cs",
+              "ToolTip": "D:\\Datta_Git\\Machine_Tasks\\Practice\\Country_Task\\Data\\Models\\City.cs",
+              "RelativeToolTip": "Data\\Models\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:47:16.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Machine_Tasks\\Practice\\Country_Task\\Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\User.cs",
+              "ToolTip": "D:\\Datta_Git\\Machine_Tasks\\Practice\\Country_Task\\Data\\Models\\User.cs",
+              "RelativeToolTip": "Data\\Models\\User.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:46:48.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
