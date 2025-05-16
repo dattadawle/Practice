@@ -1,12 +1,40 @@
 ﻿using SOLID_Principles;
 
-public abstract class Customer
+public  class Customer
 {
-    /*public void Insert()
+    ILogger _logger;
+    // dependency injection through Constructor
+   /* public Customer(ILogger logger)
+    {
+        _logger = logger;
+    }*/
+    public Customer()
+    {
+        
+    }
+
+
+    /* // dependancy injection through Method
+
+     public void setInsatance(ILogger logger)
+     {
+         _logger = logger;
+     }*/
+
+    // dependency injection through property
+
+    public ILogger instance
+    {
+        set { _logger = value; }
+    }
+
+
+
+    public void Insert()
     {
         try
         {
-            int a = 10, b=0;
+            int a = 10, b = 0;
 
             int c = a / b;
 
@@ -17,15 +45,20 @@ public abstract class Customer
         {
             //File.AppendAllText(@"Logs/Errors.txt",$"{ex.Message}\r\n");
 
-            FileLogger fileLogger = new FileLogger();
+            // FileLogger fileLogger = new FileLogger();
 
-            fileLogger.logger(ex.Message);
-        }*/
+            // fileLogger.logger(ex.Message);
 
-   // public abstract int GetTicketAmount();
-  //  public abstract void PrintTicket();
+            _logger.Log(ex.Message);
 
-    public void ShowsTimings()
+
+        }
+    }
+
+        // public abstract int GetTicketAmount();
+        //  public abstract void PrintTicket();
+
+        public void ShowsTimings()
     {
         Console.WriteLine("***All shows timings***");
     }
@@ -96,6 +129,7 @@ public class Enquary : Customer
     }*/
 
 }
+
 
 public class VIPCustomer : Customer, IcustomerV1 // needs some new features
 {

@@ -1,12 +1,15 @@
 ﻿
+using SOLID_Principles;
+
 Console.WriteLine(" Program Starts here..");
 
 Console.WriteLine("Enter Customer Type...");
 
-string customer= Console.ReadLine().ToUpper();
+#region old code
+/*
 
 Customer c= null;
-/*c.Insert();
+*//*c.Insert();
 
 if (customer == "SILVER")
 {
@@ -16,7 +19,7 @@ else if (customer == "GOLD")
 {
     c.Insert();
 }
-*/
+*//*
 
 if (customer == "SILVER")
 {
@@ -47,7 +50,28 @@ if(customer != null)
 else
 {
     Console.WriteLine("Invalid Customer");
-}
+}*/
+#endregion
+
+//Customer customer = new Customer(new FileLogger());
+//customer.Insert();
+
+//Customer customer = new Customer(new DataBaseLogger());
+//customer.Insert();
+
+/*Customer customer = new Customer();
+customer.setInsatance(new DataBaseLogger());
+
+customer.Insert();*/
+
+Customer customer = new Customer();
+customer.instance = new DataBaseLogger();
+
+customer.Insert();
+
+
+
+
 Console.WriteLine(" Program Ends here..");
 
 Console.ReadLine();

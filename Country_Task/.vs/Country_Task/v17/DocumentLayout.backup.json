@@ -11,8 +11,16 @@
       "RelativeMoniker": "D:0:0:{8A3B1536-6A49-427F-81C9-B49A661061EF}|SOLID_Principles\\SOLID_Principles.csproj|solutionrelative:solid_principles\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8A3B1536-6A49-427F-81C9-B49A661061EF}|SOLID_Principles\\SOLID_Principles.csproj|d:\\datta_git\\practice\\country_task\\solid_principles\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3B1536-6A49-427F-81C9-B49A661061EF}|SOLID_Principles\\SOLID_Principles.csproj|solutionrelative:solid_principles\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8A3B1536-6A49-427F-81C9-B49A661061EF}|SOLID_Principles\\SOLID_Principles.csproj|d:\\datta_git\\practice\\country_task\\solid_principles\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A3B1536-6A49-427F-81C9-B49A661061EF}|SOLID_Principles\\SOLID_Principles.csproj|solutionrelative:solid_principles\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3B1536-6A49-427F-81C9-B49A661061EF}|SOLID_Principles\\SOLID_Principles.csproj|d:\\datta_git\\practice\\country_task\\solid_principles\\databaselogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3B1536-6A49-427F-81C9-B49A661061EF}|SOLID_Principles\\SOLID_Principles.csproj|solutionrelative:solid_principles\\databaselogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,14 +43,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\SOLID_Principles\\ILogger.cs",
+              "RelativeDocumentMoniker": "SOLID_Principles\\ILogger.cs",
+              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\SOLID_Principles\\ILogger.cs",
+              "RelativeToolTip": "SOLID_Principles\\ILogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:17:47.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "FileLogger.cs",
               "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\SOLID_Principles\\FileLogger.cs",
               "RelativeDocumentMoniker": "SOLID_Principles\\FileLogger.cs",
               "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\SOLID_Principles\\FileLogger.cs",
               "RelativeToolTip": "SOLID_Principles\\FileLogger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T06:12:46.698Z",
+              "WhenOpened": "2025-05-15T10:17:43.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataBaseLogger.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\SOLID_Principles\\DataBaseLogger.cs",
+              "RelativeDocumentMoniker": "SOLID_Principles\\DataBaseLogger.cs",
+              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\SOLID_Principles\\DataBaseLogger.cs",
+              "RelativeToolTip": "SOLID_Principles\\DataBaseLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:17:41.099Z",
               "EditorCaption": ""
             },
             {
@@ -51,11 +85,11 @@
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\SOLID_Principles\\Customer.cs",
               "RelativeDocumentMoniker": "SOLID_Principles\\Customer.cs",
-              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\SOLID_Principles\\Customer.cs",
-              "RelativeToolTip": "SOLID_Principles\\Customer.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAuwCgAAAAcAAAAAAAAAA==",
+              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\SOLID_Principles\\Customer.cs*",
+              "RelativeToolTip": "SOLID_Principles\\Customer.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T05:19:17.1Z",
+              "WhenOpened": "2025-05-15T10:17:24.324Z",
               "EditorCaption": ""
             },
             {
@@ -66,9 +100,9 @@
               "RelativeDocumentMoniker": "SOLID_Principles\\Program.cs",
               "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\SOLID_Principles\\Program.cs*",
               "RelativeToolTip": "SOLID_Principles\\Program.cs*",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T05:18:09.165Z",
+              "WhenOpened": "2025-05-15T10:17:18.145Z",
               "EditorCaption": ""
             }
           ]

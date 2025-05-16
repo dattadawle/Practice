@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DTO", "DTO\DTO.csproj", "{2
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CountryState", "CountryState", "{297DDB6B-8318-49F5-863C-27F24C2AA24F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID_Principles", "SOLID_Principles\SOLID_Principles.csproj", "{8A3B1536-6A49-427F-81C9-B49A661061EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOLID_Principles", "SOLID_Principles\SOLID_Principles.csproj", "{8A3B1536-6A49-427F-81C9-B49A661061EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDOperation", "CRUDOperation\CRUDOperation.csproj", "{A2590B97-D46D-4703-B01D-3C2E5E3C2449}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{8A3B1536-6A49-427F-81C9-B49A661061EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A3B1536-6A49-427F-81C9-B49A661061EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A3B1536-6A49-427F-81C9-B49A661061EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2590B97-D46D-4703-B01D-3C2E5E3C2449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2590B97-D46D-4703-B01D-3C2E5E3C2449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2590B97-D46D-4703-B01D-3C2E5E3C2449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2590B97-D46D-4703-B01D-3C2E5E3C2449}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
