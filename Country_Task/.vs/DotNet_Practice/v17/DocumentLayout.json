@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Datta_Git\\Practice\\Country_Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A67189F6-B3B1-45F7-BF6C-7FDBA867794B}|nextWave_Task\\nextWave_Task.csproj|d:\\datta_git\\practice\\country_task\\nextwave_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A67189F6-B3B1-45F7-BF6C-7FDBA867794B}|nextWave_Task\\nextWave_Task.csproj|solutionrelative:nextwave_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2759826-9070-40D7-A6E2-03504FAA05A5}|Ref_Example\\Ref_Example.csproj|d:\\datta_git\\practice\\country_task\\ref_example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2759826-9070-40D7-A6E2-03504FAA05A5}|Ref_Example\\Ref_Example.csproj|solutionrelative:ref_example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F62D751-0E98-438E-8275-B12BFEBD48E5}|CRUDUsingADO\\CRUDUsingADO.csproj|D:\\Datta_Git\\Practice\\Country_Task\\crudusingado\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F62D751-0E98-438E-8275-B12BFEBD48E5}|CRUDUsingADO\\CRUDUsingADO.csproj|solutionrelative:crudusingado\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F62D751-0E98-438E-8275-B12BFEBD48E5}|CRUDUsingADO\\CRUDUsingADO.csproj|D:\\Datta_Git\\Practice\\Country_Task\\crudusingado\\dbconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F62D751-0E98-438E-8275-B12BFEBD48E5}|CRUDUsingADO\\CRUDUsingADO.csproj|solutionrelative:crudusingado\\dbconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F62D751-0E98-438E-8275-B12BFEBD48E5}|CRUDUsingADO\\CRUDUsingADO.csproj|D:\\Datta_Git\\Practice\\Country_Task\\crudusingado\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2F62D751-0E98-438E-8275-B12BFEBD48E5}|CRUDUsingADO\\CRUDUsingADO.csproj|solutionrelative:crudusingado\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F62D751-0E98-438E-8275-B12BFEBD48E5}|CRUDUsingADO\\CRUDUsingADO.csproj|D:\\Datta_Git\\Practice\\Country_Task\\crudusingado\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F62D751-0E98-438E-8275-B12BFEBD48E5}|CRUDUsingADO\\CRUDUsingADO.csproj|solutionrelative:crudusingado\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F62D751-0E98-438E-8275-B12BFEBD48E5}|CRUDUsingADO\\CRUDUsingADO.csproj|D:\\Datta_Git\\Practice\\Country_Task\\crudusingado\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F62D751-0E98-438E-8275-B12BFEBD48E5}|CRUDUsingADO\\CRUDUsingADO.csproj|solutionrelative:crudusingado\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\nextWave_Task\\Program.cs",
+              "RelativeDocumentMoniker": "nextWave_Task\\Program.cs",
+              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\nextWave_Task\\Program.cs",
+              "RelativeToolTip": "nextWave_Task\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:49:26.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\Ref_Example\\Program.cs",
+              "RelativeDocumentMoniker": "Ref_Example\\Program.cs",
+              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\Ref_Example\\Program.cs",
+              "RelativeToolTip": "Ref_Example\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T15:52:02.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbConstants.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\CRUDUsingADO\\DbConstants.cs",
+              "RelativeDocumentMoniker": "CRUDUsingADO\\DbConstants.cs",
+              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\CRUDUsingADO\\DbConstants.cs",
+              "RelativeToolTip": "CRUDUsingADO\\DbConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:09:11.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\CRUDUsingADO\\Web.config",
+              "RelativeDocumentMoniker": "CRUDUsingADO\\Web.config",
+              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\CRUDUsingADO\\Web.config",
+              "RelativeToolTip": "CRUDUsingADO\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-19T14:20:50.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\CRUDUsingADO\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDUsingADO\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\CRUDUsingADO\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "CRUDUsingADO\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T14:10:44.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\CRUDUsingADO\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "CRUDUsingADO\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\CRUDUsingADO\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "CRUDUsingADO\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:09:58.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\CRUDUsingADO\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "CRUDUsingADO\\Models\\Category.cs",
+              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\CRUDUsingADO\\Models\\Category.cs",
+              "RelativeToolTip": "CRUDUsingADO\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:07:55.046Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
