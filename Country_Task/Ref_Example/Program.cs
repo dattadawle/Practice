@@ -13,7 +13,7 @@ Console.WriteLine($"after :{a}");
 
 //ModifyRef(ref a);
 
-Console.WriteLine($"after :{a}");*/
+Console.WriteLine($"after :{a}");*//*
 
 
 
@@ -38,3 +38,4 @@ public class AppConfig
     }
 }
 
+*/
