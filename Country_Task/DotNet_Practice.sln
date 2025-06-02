@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nextWave_Task", "nextWave_T
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web API", "Web API", "{F9FF42B7-8134-40C3-AC32-859C674E48DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_ApiExample", "Web_ApiExample\Web_ApiExample.csproj", "{24049507-9A63-4F16-A3B3-6B76D0647822}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web_ApiExample", "Web_ApiExample\Web_ApiExample.csproj", "{24049507-9A63-4F16-A3B3-6B76D0647822}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApi_Layerd_Project", "WebApi_Layerd_Project", "{4CA53FFE-B4C6-43A7-9E81-845BA50A4DD0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
