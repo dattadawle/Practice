@@ -3,44 +3,44 @@
   "WorkspaceRootPath": "D:\\Datta_Git\\Practice\\Country_Task\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24049507-9A63-4F16-A3B3-6B76D0647822}|Web_ApiExample\\Web_ApiExample.csproj|d:\\datta_git\\practice\\country_task\\web_apiexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{24049507-9A63-4F16-A3B3-6B76D0647822}|Web_ApiExample\\Web_ApiExample.csproj|solutionrelative:web_apiexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{BDE2E13C-6173-42A3-8C69-7F007B971D70}|Repository\\Repository.csproj|d:\\datta_git\\practice\\country_task\\repository\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE2E13C-6173-42A3-8C69-7F007B971D70}|Repository\\Repository.csproj|solutionrelative:repository\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24049507-9A63-4F16-A3B3-6B76D0647822}|Web_ApiExample\\Web_ApiExample.csproj|d:\\datta_git\\practice\\country_task\\web_apiexample\\appsettings.uat.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{24049507-9A63-4F16-A3B3-6B76D0647822}|Web_ApiExample\\Web_ApiExample.csproj|solutionrelative:web_apiexample\\appsettings.uat.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{584DAE0D-96B2-4943-BBF5-13B1450272B0}|ServiceLayer\\ServiceLayer.csproj|d:\\datta_git\\practice\\country_task\\servicelayer\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{584DAE0D-96B2-4943-BBF5-13B1450272B0}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24049507-9A63-4F16-A3B3-6B76D0647822}|Web_ApiExample\\Web_ApiExample.csproj|d:\\datta_git\\practice\\country_task\\web_apiexample\\appsettings.qa.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{24049507-9A63-4F16-A3B3-6B76D0647822}|Web_ApiExample\\Web_ApiExample.csproj|solutionrelative:web_apiexample\\appsettings.qa.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B3E2981A-ECBA-432E-8119-1F65ACBC4918}|Api\\Api.csproj|d:\\datta_git\\practice\\country_task\\api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E2981A-ECBA-432E-8119-1F65ACBC4918}|Api\\Api.csproj|solutionrelative:api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24049507-9A63-4F16-A3B3-6B76D0647822}|Web_ApiExample\\Web_ApiExample.csproj|d:\\datta_git\\practice\\country_task\\web_apiexample\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{24049507-9A63-4F16-A3B3-6B76D0647822}|Web_ApiExample\\Web_ApiExample.csproj|solutionrelative:web_apiexample\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{584DAE0D-96B2-4943-BBF5-13B1450272B0}|ServiceLayer\\ServiceLayer.csproj|d:\\datta_git\\practice\\country_task\\servicelayer\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{584DAE0D-96B2-4943-BBF5-13B1450272B0}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24049507-9A63-4F16-A3B3-6B76D0647822}|Web_ApiExample\\Web_ApiExample.csproj|d:\\datta_git\\practice\\country_task\\web_apiexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24049507-9A63-4F16-A3B3-6B76D0647822}|Web_ApiExample\\Web_ApiExample.csproj|solutionrelative:web_apiexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E323534-FC91-4492-9A94-997B2C24D08D}|DTOLayer\\DTOLayer.csproj|d:\\datta_git\\practice\\country_task\\dtolayer\\categoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E323534-FC91-4492-9A94-997B2C24D08D}|DTOLayer\\DTOLayer.csproj|solutionrelative:dtolayer\\categoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24049507-9A63-4F16-A3B3-6B76D0647822}|Web_ApiExample\\Web_ApiExample.csproj|d:\\datta_git\\practice\\country_task\\web_apiexample\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24049507-9A63-4F16-A3B3-6B76D0647822}|Web_ApiExample\\Web_ApiExample.csproj|solutionrelative:web_apiexample\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C178A4C-C8EC-4C9C-A76F-CA0C8F1CA2AD}|DataLayer\\DataLayer.csproj|d:\\datta_git\\practice\\country_task\\datalayer\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C178A4C-C8EC-4C9C-A76F-CA0C8F1CA2AD}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24049507-9A63-4F16-A3B3-6B76D0647822}|Web_ApiExample\\Web_ApiExample.csproj|d:\\datta_git\\practice\\country_task\\web_apiexample\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{24049507-9A63-4F16-A3B3-6B76D0647822}|Web_ApiExample\\Web_ApiExample.csproj|solutionrelative:web_apiexample\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3E323534-FC91-4492-9A94-997B2C24D08D}|DTOLayer\\DTOLayer.csproj|d:\\datta_git\\practice\\country_task\\dtolayer\\dtolayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E323534-FC91-4492-9A94-997B2C24D08D}|DTOLayer\\DTOLayer.csproj|solutionrelative:dtolayer\\dtolayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24049507-9A63-4F16-A3B3-6B76D0647822}|Web_ApiExample\\Web_ApiExample.csproj|d:\\datta_git\\practice\\country_task\\web_apiexample\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24049507-9A63-4F16-A3B3-6B76D0647822}|Web_ApiExample\\Web_ApiExample.csproj|solutionrelative:web_apiexample\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3E2981A-ECBA-432E-8119-1F65ACBC4918}|Api\\Api.csproj|d:\\datta_git\\practice\\country_task\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E2981A-ECBA-432E-8119-1F65ACBC4918}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Datta_Git\\Practice\\Country_Task\\Web_ApiExample\\Migrations\\20250530121436_InitialDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Web_ApiExample\\Migrations\\20250530121436_InitialDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BDE2E13C-6173-42A3-8C69-7F007B971D70}|Repository\\Repository.csproj|d:\\datta_git\\practice\\country_task\\repository\\icategoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE2E13C-6173-42A3-8C69-7F007B971D70}|Repository\\Repository.csproj|solutionrelative:repository\\icategoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24049507-9A63-4F16-A3B3-6B76D0647822}|Web_ApiExample\\Web_ApiExample.csproj|d:\\datta_git\\practice\\country_task\\web_apiexample\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24049507-9A63-4F16-A3B3-6B76D0647822}|Web_ApiExample\\Web_ApiExample.csproj|solutionrelative:web_apiexample\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{584DAE0D-96B2-4943-BBF5-13B1450272B0}|ServiceLayer\\ServiceLayer.csproj|d:\\datta_git\\practice\\country_task\\servicelayer\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{584DAE0D-96B2-4943-BBF5-13B1450272B0}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,132 +62,132 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.UAT.json",
-              "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\Web_ApiExample\\appsettings.UAT.json",
-              "RelativeDocumentMoniker": "Web_ApiExample\\appsettings.UAT.json",
-              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\Web_ApiExample\\appsettings.UAT.json*",
-              "RelativeToolTip": "Web_ApiExample\\appsettings.UAT.json*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-02T04:32:47.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.QA.json",
-              "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\Web_ApiExample\\appsettings.QA.json",
-              "RelativeDocumentMoniker": "Web_ApiExample\\appsettings.QA.json",
-              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\Web_ApiExample\\appsettings.QA.json*",
-              "RelativeToolTip": "Web_ApiExample\\appsettings.QA.json*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-02T04:31:47.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\Web_ApiExample\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Web_ApiExample\\appsettings.Development.json",
-              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\Web_ApiExample\\appsettings.Development.json*",
-              "RelativeToolTip": "Web_ApiExample\\appsettings.Development.json*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-02T04:15:36.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\Web_ApiExample\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Web_ApiExample\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\Web_ApiExample\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Web_ApiExample\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAcAAAAAAAAAA==",
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\DataLayer\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Model\\Category.cs",
+              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\DataLayer\\Model\\Category.cs",
+              "RelativeToolTip": "DataLayer\\Model\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T15:18:00.398Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\Web_ApiExample\\appsettings.json",
-              "RelativeDocumentMoniker": "Web_ApiExample\\appsettings.json",
-              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\Web_ApiExample\\appsettings.json*",
-              "RelativeToolTip": "Web_ApiExample\\appsettings.json*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-24T15:11:31.667Z",
+              "WhenOpened": "2025-06-02T08:58:02.926Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\Web_ApiExample\\Program.cs",
-              "RelativeDocumentMoniker": "Web_ApiExample\\Program.cs",
-              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\Web_ApiExample\\Program.cs",
-              "RelativeToolTip": "Web_ApiExample\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Title": "CategoryUi.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\DTOLayer\\CategoryUi.cs",
+              "RelativeDocumentMoniker": "DTOLayer\\CategoryUi.cs",
+              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\DTOLayer\\CategoryUi.cs",
+              "RelativeToolTip": "DTOLayer\\CategoryUi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T05:05:11.914Z",
+              "WhenOpened": "2025-06-02T08:57:17.443Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\Web_ApiExample\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Web_ApiExample\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\Web_ApiExample\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Web_ApiExample\\Properties\\launchSettings.json",
+              "Title": "DTOLayer",
+              "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\DTOLayer\\DTOLayer.csproj",
+              "RelativeDocumentMoniker": "DTOLayer\\DTOLayer.csproj",
+              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\DTOLayer\\DTOLayer.csproj",
+              "RelativeToolTip": "DTOLayer\\DTOLayer.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-24T15:12:02.396Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-02T08:56:53.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\Api\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\Api\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Api\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T08:44:18.724Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\Web_ApiExample\\Models\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Web_ApiExample\\Models\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\Web_ApiExample\\Models\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Web_ApiExample\\Models\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T05:37:27.686Z",
+              "WhenOpened": "2025-06-02T08:42:40.379Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20250530121436_InitialDb.cs",
-              "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\Web_ApiExample\\Migrations\\20250530121436_InitialDb.cs",
-              "RelativeDocumentMoniker": "Web_ApiExample\\Migrations\\20250530121436_InitialDb.cs",
-              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\Web_ApiExample\\Migrations\\20250530121436_InitialDb.cs",
-              "RelativeToolTip": "Web_ApiExample\\Migrations\\20250530121436_InitialDb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\ServiceLayer\\CategoryService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\CategoryService.cs",
+              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\ServiceLayer\\CategoryService.cs",
+              "RelativeToolTip": "ServiceLayer\\CategoryService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAASwBYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T12:14:37.043Z",
+              "WhenOpened": "2025-06-02T08:35:28.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\Repository\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\CategoryRepo.cs",
+              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\Repository\\CategoryRepo.cs",
+              "RelativeToolTip": "Repository\\CategoryRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T08:21:37.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyMappingProfile.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\ServiceLayer\\MyMappingProfile.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\MyMappingProfile.cs",
+              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\ServiceLayer\\MyMappingProfile.cs",
+              "RelativeToolTip": "ServiceLayer\\MyMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:42:48.385Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\Web_ApiExample\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Web_ApiExample\\Models\\Category.cs",
-              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\Web_ApiExample\\Models\\Category.cs",
-              "RelativeToolTip": "Web_ApiExample\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\ServiceLayer\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\ICategoryService.cs",
+              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\ServiceLayer\\ICategoryService.cs",
+              "RelativeToolTip": "ServiceLayer\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T15:03:48.622Z",
+              "WhenOpened": "2025-06-02T08:35:16.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICategoryRepo.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\Repository\\ICategoryRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\ICategoryRepo.cs",
+              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\Repository\\ICategoryRepo.cs",
+              "RelativeToolTip": "Repository\\ICategoryRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T08:16:29.735Z",
               "EditorCaption": ""
             }
           ]
