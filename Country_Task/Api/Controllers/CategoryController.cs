@@ -20,8 +20,9 @@ namespace Api.Controllers
         public IActionResult GetAll()
         {
            
-          var  categories= _categoryService.GetAll().ToList();
+         List<Category>  categories1= _categoryService.GetAll().ToList();
 
+            var categories= _mapper.Map<List<CategoryUi>>(categories1);
             return Ok(categories);
         }
 
@@ -29,7 +30,8 @@ namespace Api.Controllers
         public IActionResult Details(int id)
         {
             Category cat= _categoryService.GetById(id);
-            return Ok(cat);
+            var category= _mapper.Map<CategoryUi>(cat);
+            return Ok(category);
         }
 
         [HttpPost]
