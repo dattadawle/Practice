@@ -37,15 +37,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web_ApiExample", "Web_ApiEx
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApi_Layerd_Project", "WebApi_Layerd_Project", "{4CA53FFE-B4C6-43A7-9E81-845BA50A4DD0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{8C178A4C-C8EC-4C9C-A76F-CA0C8F1CA2AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataLayer", "DataLayer\DataLayer.csproj", "{8C178A4C-C8EC-4C9C-A76F-CA0C8F1CA2AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{BDE2E13C-6173-42A3-8C69-7F007B971D70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repository", "Repository\Repository.csproj", "{BDE2E13C-6173-42A3-8C69-7F007B971D70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTOLayer", "DTOLayer\DTOLayer.csproj", "{3E323534-FC91-4492-9A94-997B2C24D08D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DTOLayer", "DTOLayer\DTOLayer.csproj", "{3E323534-FC91-4492-9A94-997B2C24D08D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLayer", "ServiceLayer\ServiceLayer.csproj", "{584DAE0D-96B2-4943-BBF5-13B1450272B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceLayer", "ServiceLayer\ServiceLayer.csproj", "{584DAE0D-96B2-4943-BBF5-13B1450272B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "Api\Api.csproj", "{B3E2981A-ECBA-432E-8119-1F65ACBC4918}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api", "Api\Api.csproj", "{B3E2981A-ECBA-432E-8119-1F65ACBC4918}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Out_Ex", "Out_Ex\Out_Ex.csproj", "{B6B807DB-78E2-45E3-A774-84780E1A404A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -121,6 +123,10 @@ Global
 		{B3E2981A-ECBA-432E-8119-1F65ACBC4918}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3E2981A-ECBA-432E-8119-1F65ACBC4918}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3E2981A-ECBA-432E-8119-1F65ACBC4918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6B807DB-78E2-45E3-A774-84780E1A404A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B807DB-78E2-45E3-A774-84780E1A404A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B807DB-78E2-45E3-A774-84780E1A404A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B807DB-78E2-45E3-A774-84780E1A404A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

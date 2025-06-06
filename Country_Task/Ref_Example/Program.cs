@@ -1,4 +1,4 @@
-﻿void ModifyRef(ref int x)
+﻿/*void ModifyRef(ref int x)
 {
     x = x + 10;
 }
@@ -13,11 +13,11 @@ Console.WriteLine($"after :{a}");
 
 //ModifyRef(ref a);
 
-Console.WriteLine($"after :{a}");
+Console.WriteLine($"after :{a}");*/
 
 
 
-public class AppConfig
+/*public class AppConfig
 {
     public static string AppName;
     public static string Version;
@@ -37,4 +37,13 @@ public class AppConfig
         Console.WriteLine($"App: {AppName}, Version: {Version}");
     }
 }
+*/
 
+void AddTen(ref int value)
+{
+    value += 10;
+}
+
+int a = 5;
+AddTen(ref a);
+Console.WriteLine(a);  // 15
