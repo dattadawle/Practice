@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\Datta_Git\\Practice\\Country_Task\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BDE2E13C-6173-42A3-8C69-7F007B971D70}|Repository\\Repository.csproj|d:\\datta_git\\practice\\country_task\\repository\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE2E13C-6173-42A3-8C69-7F007B971D70}|Repository\\Repository.csproj|solutionrelative:repository\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE2E13C-6173-42A3-8C69-7F007B971D70}|Repository\\Repository.csproj|d:\\datta_git\\practice\\country_task\\repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BDE2E13C-6173-42A3-8C69-7F007B971D70}|Repository\\Repository.csproj|solutionrelative:repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A84587-8D38-4EB8-88C8-15D538A1C888}|Params_Example\\Params_Example.csproj|d:\\datta_git\\practice\\country_task\\params_example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A84587-8D38-4EB8-88C8-15D538A1C888}|Params_Example\\Params_Example.csproj|solutionrelative:params_example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B6B807DB-78E2-45E3-A774-84780E1A404A}|Out_Ex\\Out_Ex.csproj|d:\\datta_git\\practice\\country_task\\out_ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6B807DB-78E2-45E3-A774-84780E1A404A}|Out_Ex\\Out_Ex.csproj|solutionrelative:out_ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{584DAE0D-96B2-4943-BBF5-13B1450272B0}|ServiceLayer\\ServiceLayer.csproj|d:\\datta_git\\practice\\country_task\\servicelayer\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{584DAE0D-96B2-4943-BBF5-13B1450272B0}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDE2E13C-6173-42A3-8C69-7F007B971D70}|Repository\\Repository.csproj|d:\\datta_git\\practice\\country_task\\repository\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDE2E13C-6173-42A3-8C69-7F007B971D70}|Repository\\Repository.csproj|solutionrelative:repository\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C178A4C-C8EC-4C9C-A76F-CA0C8F1CA2AD}|DataLayer\\DataLayer.csproj|d:\\datta_git\\practice\\country_task\\datalayer\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,20 +86,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\Out_Ex\\Program.cs",
-              "RelativeDocumentMoniker": "Out_Ex\\Program.cs",
-              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\Out_Ex\\Program.cs",
-              "RelativeToolTip": "Out_Ex\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T04:22:37.252Z",
+              "DocumentIndex": 1,
+              "Title": "Repository",
+              "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\Repository\\Repository.csproj",
+              "RelativeDocumentMoniker": "Repository\\Repository.csproj",
+              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\Repository\\Repository.csproj",
+              "RelativeToolTip": "Repository\\Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-07T06:48:15.235Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\Params_Example\\Program.cs",
+              "RelativeDocumentMoniker": "Params_Example\\Program.cs",
+              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\Params_Example\\Program.cs",
+              "RelativeToolTip": "Params_Example\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T04:36:53.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\Ref_Example\\Program.cs",
               "RelativeDocumentMoniker": "Ref_Example\\Program.cs",
@@ -99,12 +120,11 @@
               "RelativeToolTip": "Ref_Example\\Program.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAuwDAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T03:40:40.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T03:40:40.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\Api\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Api\\Controllers\\CategoryController.cs",
@@ -116,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\ServiceLayer\\CategoryService.cs",
               "RelativeDocumentMoniker": "ServiceLayer\\CategoryService.cs",
@@ -128,19 +148,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "CategoryRepo.cs",
               "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\Repository\\CategoryRepo.cs",
               "RelativeDocumentMoniker": "Repository\\CategoryRepo.cs",
               "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\Repository\\CategoryRepo.cs",
               "RelativeToolTip": "Repository\\CategoryRepo.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAmwBgAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T08:21:37.593Z"
+              "WhenOpened": "2025-06-02T08:21:37.593Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\Out_Ex\\Program.cs",
+              "RelativeDocumentMoniker": "Out_Ex\\Program.cs",
+              "ToolTip": "D:\\Datta_Git\\Practice\\Country_Task\\Out_Ex\\Program.cs",
+              "RelativeToolTip": "Out_Ex\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T04:22:37.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\DataLayer\\Model\\Category.cs",
               "RelativeDocumentMoniker": "DataLayer\\Model\\Category.cs",
@@ -152,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "CategoryUi.cs",
               "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\DTOLayer\\CategoryUi.cs",
               "RelativeDocumentMoniker": "DTOLayer\\CategoryUi.cs",
@@ -164,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\DataLayer\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "DataLayer\\ApplicationDbContext.cs",
@@ -172,12 +205,11 @@
               "RelativeToolTip": "DataLayer\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T06:33:42.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T06:33:42.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\Api\\Program.cs",
               "RelativeDocumentMoniker": "Api\\Program.cs",
@@ -189,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "20250603063515_InitialDb.cs",
               "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\DataLayer\\Migrations\\20250603063515_InitialDb.cs",
               "RelativeDocumentMoniker": "DataLayer\\Migrations\\20250603063515_InitialDb.cs",
@@ -201,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\Api\\appsettings.json",
               "RelativeDocumentMoniker": "Api\\appsettings.json",
@@ -213,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "MyMappingProfile.cs",
               "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\ServiceLayer\\MyMappingProfile.cs",
               "RelativeDocumentMoniker": "ServiceLayer\\MyMappingProfile.cs",
@@ -225,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\ServiceLayer\\ICategoryService.cs",
               "RelativeDocumentMoniker": "ServiceLayer\\ICategoryService.cs",
@@ -237,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "ICategoryRepo.cs",
               "DocumentMoniker": "D:\\Datta_Git\\Practice\\Country_Task\\Repository\\ICategoryRepo.cs",
               "RelativeDocumentMoniker": "Repository\\ICategoryRepo.cs",

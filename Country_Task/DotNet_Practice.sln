@@ -47,7 +47,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceLayer", "ServiceLaye
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api", "Api\Api.csproj", "{B3E2981A-ECBA-432E-8119-1F65ACBC4918}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Out_Ex", "Out_Ex\Out_Ex.csproj", "{B6B807DB-78E2-45E3-A774-84780E1A404A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Out_Ex", "Out_Ex\Out_Ex.csproj", "{B6B807DB-78E2-45E3-A774-84780E1A404A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Params_Example", "Params_Example\Params_Example.csproj", "{F6A84587-8D38-4EB8-88C8-15D538A1C888}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -127,6 +129,10 @@ Global
 		{B6B807DB-78E2-45E3-A774-84780E1A404A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6B807DB-78E2-45E3-A774-84780E1A404A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6B807DB-78E2-45E3-A774-84780E1A404A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6A84587-8D38-4EB8-88C8-15D538A1C888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6A84587-8D38-4EB8-88C8-15D538A1C888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6A84587-8D38-4EB8-88C8-15D538A1C888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A84587-8D38-4EB8-88C8-15D538A1C888}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
